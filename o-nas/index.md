@@ -11,7 +11,10 @@ keywords: program, transparence, slovensko, svobodný software, demokracie
 ## Programové teze
 
 ### Transparentnost
-- Budeme mít transparentní účet u FIO Banky
+
+Momentálne jediné náklady spojené s touto kampaňou sú určené na motivačné darčeky  pre aktívnych zberačov a financujú sa z voľných peňazí na transparentnom účte občianskeho združenia Slovenská Pirátska strana a čiastočne z fondu, ktorý pre nás vyčlenila Česká Pirátska strana. Samozrejme časom budeme potrebovať ďašie peniaze, za registráciu samotnú sa platí 663,50 eur (načo uľahčovať demokratické úsilie, že áno). 
+Piráti však všetko riešia efektívne a hlavne transparentne, preto sa nemusíte báť, že by peniaze boli míňané na sprostosti. Pre zaujímavosť si môžete pozrieť výpočet ceny za jeden hlas pri posledných parlamentných voľbách v Českej Republike (link).
+Naše transparentné účty:
 
 
 
