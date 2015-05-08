@@ -1,5 +1,5 @@
 ---
-category:  AKCE
+category:  CLANKY
 tags: 
 title: Slovensko je dnes rozdelené na dva tábory, ktoré vlastne chcú to isté.
 layout: post
